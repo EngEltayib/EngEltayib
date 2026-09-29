@@ -11,13 +11,13 @@
 </p>
 
 <p>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:altayeb.kha@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-181717?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="YOUR_LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/altayeb-khaled/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL_HERE">
+  <a href="https://al-tayeb-frontend-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
